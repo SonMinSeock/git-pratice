@@ -6,3 +6,4 @@ Praticing Git &amp; GitHub for collaboration
 - [x] sonminseock
 - [x] Lee
 - [x] Kim
+- [x] Mike
