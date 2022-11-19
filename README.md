@@ -7,3 +7,4 @@ Praticing Git &amp; GitHub for collaboration
 - [x] Lee
 - [x] Kim
 - [x] Mike
+- [x] Jane
